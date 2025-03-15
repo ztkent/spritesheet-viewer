@@ -27,7 +27,7 @@ The viewer provides two main settings:
 
 ## Running the Viewer
 
-Download the latest version from the [Github Releases]().
+Download the latest version from the [Github Releases](https://github.com/ztkent/spritesheet-viewer/releases).
 
 ### Building from Source
 
