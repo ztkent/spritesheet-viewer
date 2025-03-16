@@ -7,10 +7,7 @@ A lightweight tool for viewing and inspecting sprite sheets with configurable gr
 
 - Load PNG and JPEG sprite sheets
 - Adjust grid size and margin settings in real-time
-- Auto-grid sprite detection
 - Scroll through large sprite sheets
-- Visual sprite preview with row / column indicators
-
 
 ## Example
 <div align="center">
@@ -30,17 +27,9 @@ The viewer provides two main settings:
 Download the latest version from the [Github Releases](https://github.com/ztkent/spritesheet-viewer/releases).
 
 ### Building from Source
-
-Requires Go and the following dependencies:
 ```bash
-go get github.com/gen2brain/raylib-go/raylib
-```
-
-To build and run:
-```bash
+git clone https://github.com/ztkent/spritesheet-viewer.git
+cd spritesheet-viewer
 go build
-./view_spritesheet
+./spritesheet-viewer
 ```
-
-## System Requirements
-- macOS
